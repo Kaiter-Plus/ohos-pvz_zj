@@ -13,6 +13,18 @@
 
 演示地址: [B站-植物大战僵尸杂交版编译适配完成！！！](https://www.bilibili.com/video/BV1BmhxzNEZg)
 
+
+
+## 相关截图
+
+<img src="./images/1.jpg" alt="加载页面" title="加载页面" />
+
+<img src="./images/2.jpg" alt="首页" title="首页" />
+
+<img src="./images/3.jpg" alt="章节选择" title="章节选择" />
+
+<img src="./images/4.jpg" alt="关卡选择" title="关卡选择" />
+
 ## 支持作者
 
 如果你觉得作者做的还不错，可以通过以下方式支持赞助作，万分感谢！！！
