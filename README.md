@@ -4,12 +4,7 @@
 
 ## 通告
 
-0.9.1 开始，编译到鸿蒙上会出现以下 bug：
-
-- 火炬坚果看不见坚果，只能看见火焰
-- 僵尸头和手臂被打掉落不显示
-
-由于以上问题，暂时不更新 0.9.1 版本。
+0.11.0 开始，游戏部分代码使用 C# 进行开发，目前 Godot 在鸿蒙上的 C# 适配存在问题，无法正常运行，故 0.11.0 暂时无法更新。
 
 ## 如何使用
 
@@ -17,10 +12,6 @@
 2. 使用小白调试助手进行安装
    - 如果没有【小白调试助手】，请到[这里](https://github.com/likuai2010/auto-installer)进行下载
    - 不知道怎么使用，请观看【小白调试助手】作者发布的视频，[在这里](https://www.bilibili.com/video/BV1hkZ7YnEMd/?buvid=XU50AEE5B695BF9AE00BE6AF79CAEA66EE864&is_story_h5=false&mid=weM0N4n%2FYYAvdleSFCdMlQ%3D%3D&plat_id=240&share_from=ugc&share_medium=harmony&share_plat=harmony&share_session_id=c5487808-e471-4dde-9d6a-1681b8e94226&share_source=COPY&share_tag=s_i&timestamp=1743409812&unique_k=67qrmk0&up_id=192012667&vd_source=7518296632f68764739d8c7731c2bdc6)
-
-## 演示地址
-
-演示地址: [B站-植物大战僵尸杂交版编译适配完成！！！](https://www.bilibili.com/video/BV1BmhxzNEZg)
 
 ## 支持作者
 
