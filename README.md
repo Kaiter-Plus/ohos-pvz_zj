@@ -15,15 +15,7 @@
 
 ## 支持作者
 
-如果你觉得作者做的还不错，可以通过以下方式支持赞助作，万分感谢！！！
-
-- 爱发电
-
-<img src="./images/afdian.jpg" alt="微信小程序" title="微信小程序" width="200" />
-
-- 微信小程序看个广告（最方便，不过 10 个广告可能 1 分钱都没有就是了）
-
-<img src="./images/wxqrcode.jpg" alt="微信小程序" title="微信小程序" width="200" />
+如果你觉得作者做的还不错，可以通过以下方式支持请作者喝杯奶茶，万分感谢！！！
 
 - 作者微信收款码
 
@@ -32,6 +24,14 @@
 - 作者支付宝收款码
 
 <img src="./images/alipay.jpg" alt="微信" title="微信" width="200" />
+
+- 微信小程序看个广告
+
+<img src="./images/wxqrcode.jpg" alt="微信小程序" title="微信小程序" width="200" />
+
+- 爱发电
+
+<img src="./images/afdian.jpg" alt="微信小程序" title="微信小程序" width="200" />
 
 ## 相关截图
 
